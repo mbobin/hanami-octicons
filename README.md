@@ -1,6 +1,8 @@
 # Hanami::Octicons
 
 [![Build Status](https://travis-ci.org/mbobin/hanami-octicons.svg?branch=master)](https://travis-ci.org/mbobin/hanami-octicons)
+[![Maintainability](https://api.codeclimate.com/v1/badges/887a929d19279d0b9c30/maintainability)](https://codeclimate.com/github/mbobin/hanami-octicons/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/887a929d19279d0b9c30/test_coverage)](https://codeclimate.com/github/mbobin/hanami-octicons/test_coverage)
 
 A custom helper method around GitHub's [Octicons](https://github.com/primer/octicons) that would be useful in [Hanami](http://hanamirb.org/) projects.
 
