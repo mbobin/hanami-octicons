@@ -1,0 +1,7 @@
+AllCops:
+  TargetRubyVersion: 2.2
+  Exclude:
+    - "*.gemspec"
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
