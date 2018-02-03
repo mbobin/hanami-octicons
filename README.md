@@ -1,5 +1,7 @@
 # Hanami::Octicons
 
+[![Build Status](https://travis-ci.org/mbobin/hanami-octicons.svg?branch=master)](https://travis-ci.org/mbobin/hanami-octicons)
+
 A custom helper method around GitHub's [Octicons](https://github.com/primer/octicons) that would be useful in [Hanami](http://hanamirb.org/) projects.
 
 ## Installation
